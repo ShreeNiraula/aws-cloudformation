@@ -1,4 +1,4 @@
-# AWS Cloudformation Templates for Windows
+# AWS Cloudformation Template for Windows
 ###### Date: 24-March-2023 <br>
 ###### Version: 1.0 </br>
 
